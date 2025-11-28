@@ -89,6 +89,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   
 
 ## STM 32 CUBE PROGRAM :
+
 ```
 /* USER CODE BEGIN Header */
 /**
@@ -308,18 +309,21 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
+
 ```
 
 ## Output screen shots of proteus  :
-
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b18d374-3f14-484b-a0a7-66c0151a8f64" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be611407-500e-4f6d-bbd7-b0bf5fee467d" />
-
  
+<img width="825" height="654" alt="exp-6 output(2)" src="https://github.com/user-attachments/assets/7b23972a-b603-440c-9989-c8ea2c54d77a" />
+
+
+<img width="952" height="675" alt="exp-6 output" src="https://github.com/user-attachments/assets/460448ae-f285-498f-aaa7-6f4decdd5681" />
+
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- <img width="1186" height="832" alt="image" src="https://github.com/user-attachments/assets/e6a01984-fd4e-4996-a86d-edc41acbeeb2" />
+<img width="948" height="653" alt="exp-6 output(3)" src="https://github.com/user-attachments/assets/7a468f62-61b8-4b6c-a23f-db8043f242cc" />
+
 
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
